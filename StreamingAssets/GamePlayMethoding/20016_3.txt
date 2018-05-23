@@ -1,0 +1,6 @@
+﻿<color=#7e4b0e><size=30>【幺九将】</size></color><color=#7e4b0e><size=30></size></color>
+自摸时，手中含1/9或者风牌组成的将牌为幺九。
+<color=#7e4b0e><size=30>【底分】</size></color><color=#7e4b0e><size=30></size></color>
+底分可选1嘴、5嘴、10嘴。
+<color=#7e4b0e><size=30>【砍张】</size></color><color=#7e4b0e><size=30></size></color>
+手上三张一样为坎1嘴 碰下地不算。字坎，任意形式下出现的字坎1嘴，碰下地也算。

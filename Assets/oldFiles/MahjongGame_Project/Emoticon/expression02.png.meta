@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: f2de48ebf2f6f0c468f0a71f1b669371
+timeCreated: 1503481290
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: expression02_0
+    21300002: expression02_1
+    21300004: expression02_2
+    21300006: expression02_3
+    21300008: expression02_4
+    21300010: expression02_5
+    21300012: expression02_6
+    21300014: expression02_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: expression02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 57.5}
+        - {x: -41.5, y: 39.5}
+        - {x: -51.5, y: 25.5}
+        - {x: -51.5, y: -46.5}
+        - {x: -16.5, y: -57.5}
+        - {x: 55.5, y: -57.5}
+        - {x: 64.5, y: -54.5}
+        - {x: 64.5, y: 57.5}
+    - name: expression02_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 52.5}
+        - {x: -51.5, y: 28.5}
+        - {x: -51.5, y: -36.5}
+        - {x: -14.5, y: -66.5}
+        - {x: 61.5, y: -66.5}
+        - {x: 64.5, y: -57.5}
+        - {x: 64.5, y: 29.5}
+        - {x: 34.5, y: 52.5}
+    - name: expression02_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 57.5}
+        - {x: -41.5, y: 39.5}
+        - {x: -51.5, y: 25.5}
+        - {x: -51.5, y: -46.5}
+        - {x: -16.5, y: -57.5}
+        - {x: 55.5, y: -57.5}
+        - {x: 64.5, y: -54.5}
+        - {x: 64.5, y: 57.5}
+    - name: expression02_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 165
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 42.5}
+        - {x: -51.5, y: 26.5}
+        - {x: -51.5, y: -58.5}
+        - {x: -25.5, y: -72.5}
+        - {x: 55.5, y: -72.5}
+        - {x: 64.5, y: -66.5}
+        - {x: 64.5, y: 18.5}
+        - {x: 43.5, y: 42.5}
+    - name: expression02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 57.5}
+        - {x: -51.5, y: 31.5}
+        - {x: -51.5, y: -42.5}
+        - {x: -44.5, y: -57.5}
+        - {x: 59.5, y: -57.5}
+        - {x: 64.5, y: -48.5}
+        - {x: 64.5, y: 28.5}
+        - {x: 54.5, y: 57.5}
+    - name: expression02_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 52.5}
+        - {x: -51.5, y: 39.5}
+        - {x: -51.5, y: -49.5}
+        - {x: -41.5, y: -65.5}
+        - {x: -19.5, y: -66.5}
+        - {x: 35.5, y: -66.5}
+        - {x: 64.5, y: -27.5}
+        - {x: 64.5, y: 25.5}
+        - {x: 39.5, y: 52.5}
+    - name: expression02_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 57.5}
+        - {x: -51.5, y: 31.5}
+        - {x: -51.5, y: -42.5}
+        - {x: -44.5, y: -57.5}
+        - {x: 59.5, y: -57.5}
+        - {x: 64.5, y: -48.5}
+        - {x: 64.5, y: 28.5}
+        - {x: 54.5, y: 57.5}
+    - name: expression02_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 47.5}
+        - {x: -51.5, y: 27.5}
+        - {x: -51.5, y: -49.5}
+        - {x: -45.5, y: -68.5}
+        - {x: 45.5, y: -68.5}
+        - {x: 64.5, y: -40.5}
+        - {x: 64.5, y: 26.5}
+        - {x: 40.5, y: 47.5}
+    outline: []
+  spritePackingTag: Game
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

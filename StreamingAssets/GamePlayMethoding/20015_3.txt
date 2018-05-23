@@ -1,0 +1,12 @@
+﻿<color=#7e4b0e><size=30>【见面】</size></color><color=#7e4b0e><size=30></size></color>
+例：自摸1条时，胡牌后，自摸前听口为1、4、7条，这时桌面有多少张打出的1、4、7条就是几嘴。暗杠不算，手牌及未抓的牌不算！
+<color=#7e4b0e><size=30>【点数】</size></color><color=#7e4b0e><size=30></size></color>
+胡牌是几加几嘴，字牌10嘴。仅自摸时计算！
+<color=#7e4b0e><size=30>【幺九将】</size></color><color=#7e4b0e><size=30></size></color>
+自摸时，手中含1/9或者风牌组成的将牌为幺九。
+<color=#7e4b0e><size=30>【断独幺】</size></color><color=#7e4b0e><size=30></size></color>
+只有一张1/9为独幺，1嘴。若成牌时手牌没有1/9则为断幺，计2嘴。
+<color=#7e4b0e><size=30>【通天】</size></color><color=#7e4b0e><size=30></size></color>
+通天指一条龙，一条龙仅指同一门花色的123456789。至于其他的牌，则没有限制。如123456789万+567筒+2筒对，这牌就是一条龙+258将+平和。
+<color=#7e4b0e><size=30>【六连】</size></color><color=#7e4b0e><size=30></size></color>
+六连指连续的两组顺子，如123、456万、345、678条。

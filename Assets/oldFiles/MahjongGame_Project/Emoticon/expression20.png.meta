@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 43590af2272404645abfbf557e7ab970
+timeCreated: 1503481603
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: expression20_0
+    21300002: expression20_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: expression20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 39.5}
+        - {x: -59.5, y: 14.5}
+        - {x: -59.5, y: -67.5}
+        - {x: -51.5, y: -73.5}
+        - {x: 63.5, y: -73.5}
+        - {x: 63.5, y: 23.5}
+        - {x: 27.5, y: 39.5}
+      - - {x: -1.5, y: 43.5}
+        - {x: 0.5, y: 40.5}
+        - {x: 29.5, y: 40.5}
+        - {x: 29.5, y: 68.5}
+        - {x: 24.5, y: 72.5}
+        - {x: 0.5, y: 72.5}
+        - {x: -1.5, y: 67.5}
+        - {x: -1.5, y: 64.5}
+        - {x: -1.5, y: 67.5}
+        - {x: -4.5, y: 70.5}
+        - {x: -11.5, y: 72.5}
+        - {x: -31.5, y: 72.5}
+        - {x: -33.5, y: 66.5}
+        - {x: -33.5, y: 40.5}
+        - {x: -4.5, y: 40.5}
+        - {x: -1.5, y: 43.5}
+        - {x: -1.5, y: 57.5}
+    - name: expression20_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 39.5}
+        - {x: -64.5, y: 20.5}
+        - {x: -64.5, y: -73.5}
+        - {x: 57.5, y: -73.5}
+        - {x: 65.5, y: -69.5}
+        - {x: 65.5, y: 21.5}
+        - {x: 62.5, y: 39.5}
+      - - {x: -43.5, y: 80.5}
+        - {x: -43.5, y: 38.5}
+        - {x: -3.5, y: 38.5}
+        - {x: -3.5, y: 80.5}
+      - - {x: -1.5, y: 79.5}
+        - {x: -1.5, y: 42.5}
+        - {x: 0.5, y: 39.5}
+        - {x: 36.5, y: 39.5}
+        - {x: 38.5, y: 41.5}
+        - {x: 38.5, y: 79.5}
+    outline: []
+  spritePackingTag: Game
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

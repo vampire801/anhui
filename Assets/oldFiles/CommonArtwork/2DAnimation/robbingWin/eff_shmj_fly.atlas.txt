@@ -1,0 +1,60 @@
+eff_shmj_fly.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lpmj_tx_fcy
+  rotate: false
+  xy: 308, 2
+  size: 312, 131
+  orig: 312, 131
+  offset: 0, 0
+  index: -1
+lpmj_tx_fcy_glow
+  rotate: true
+  xy: 2, 119
+  size: 572, 245
+  orig: 572, 245
+  offset: 0, 0
+  index: -1
+lpmj_tx_hfj
+  rotate: true
+  xy: 487, 135
+  size: 288, 126
+  orig: 288, 126
+  offset: 0, 0
+  index: -1
+lpmj_tx_hfj_1
+  rotate: false
+  xy: 487, 425
+  size: 457, 266
+  orig: 457, 266
+  offset: 0, 0
+  index: -1
+lpmj_tx_kaibao
+  rotate: true
+  xy: 846, 231
+  size: 192, 120
+  orig: 192, 120
+  offset: 0, 0
+  index: -1
+lpmj_tx_kaibao_1
+  rotate: true
+  xy: 622, 52
+  size: 371, 222
+  orig: 371, 222
+  offset: 0, 0
+  index: -1
+lpmj_tx_mgt
+  rotate: false
+  xy: 2, 4
+  size: 304, 113
+  orig: 304, 113
+  offset: 0, 0
+  index: -1
+lpmj_tx_mgt_1
+  rotate: true
+  xy: 249, 135
+  size: 556, 236
+  orig: 556, 236
+  offset: 0, 0
+  index: -1

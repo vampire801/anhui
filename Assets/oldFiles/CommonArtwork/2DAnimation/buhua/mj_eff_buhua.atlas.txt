@@ -1,0 +1,61 @@
+
+mj_eff_buhua.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_lpmj_bh_flower_1
+  rotate: false
+  xy: 255, 57
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+eff_lpmj_bh_flower_2
+  rotate: false
+  xy: 255, 106
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+eff_lpmj_bh_flower_3
+  rotate: false
+  xy: 255, 4
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+eff_lpmj_bh_flower_4
+  rotate: true
+  xy: 306, 6
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+eff_lpmj_bh_tex
+  rotate: false
+  xy: 2, 2
+  size: 251, 154
+  orig: 251, 154
+  offset: 0, 0
+  index: -1
+eff_lpmj_bh_yz_2
+  rotate: false
+  xy: 311, 69
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+heff_lpmj_bh_yz_1
+  rotate: false
+  xy: 315, 108
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+hlmj_game_icon1
+  rotate: false
+  xy: 315, 130
+  size: 24, 26
+  orig: 28, 28
+  offset: 2, 1
+  index: -1

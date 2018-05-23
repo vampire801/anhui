@@ -1,0 +1,54 @@
+﻿{
+  "methodConfig": [
+    {
+      "METHOD": 20016,
+      "METHOD_NAME": "定远推倒胡",
+      "METHOD_DISCRIPTION": "一起来玩定远推到胡麻将吧！",
+      "type": "2",
+      "sum": "1_2_3",
+      "pay": "28_40_52",
+      "base_score ": "1_5_10",
+      "gameid": 20
+    },
+    {
+      "METHOD": 20015,
+      "METHOD_NAME": "定远共嘴麻将",
+      "METHOD_DISCRIPTION": "一起来玩定远共嘴麻将吧！",
+      "type": "2_1",
+      "sum": "1_2_3|4_8_16",
+      "pay": "28_40_52_28_40_52",
+      "base_score ": "1",
+      "gameid": 20
+    },
+    {
+      "METHOD": 20001,
+      "METHOD_NAME": "红中麻将",
+      "METHOD_DISCRIPTION": "一起来玩定远红中麻将吧！",
+      "type": "1",
+      "sum": "8_16_24",
+      "pay": "28_40_53",
+      "base_score ": "1",
+      "gameid": 21
+    },
+    {
+      "METHOD": 20017,
+      "METHOD_NAME": "全椒老三番",
+      "METHOD_DISCRIPTION": "一起来玩全椒老三番麻将吧！",
+      "type": "1",
+      "sum": "8_16_24",
+      "pay": "28_40_53",
+      "base_score ": "1",
+      "gameid": 22
+    },
+    {
+      "METHOD": 20018,
+      "METHOD_NAME": "滁州五七番",
+      "METHOD_DISCRIPTION": "一起来玩滁州五七番麻将吧！",
+      "type": "1",
+      "sum": "8_16_24",
+      "pay": "28_40_53",
+      "base_score ": "1",
+      "gameid": 22
+    }
+  ]
+}

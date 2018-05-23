@@ -1,0 +1,17 @@
+package client;
+
+// [厅客]->[厅网]大厅客户端请求大厅服务器的请求消息
+message server_req
+{
+	required uint32 iServerId = 1;		// 指定连接的大厅服务器编号，如果是0，由大厅网关分配
+}
+
+// [厅网]->[厅客]大厅客户端请求大厅服务器的回应消息
+message server_res
+{
+	required uint32 iError = 1;			// 错误编号，0是没有错误
+	required uint32 iServerId = 2;		// 可连接的服务器编号
+	required string szIp = 3;				// 可连接的服务器的IP地址
+	required string szDomain = 4;		// 域名
+	required uint32 iPort = 5;			// 可连接的服务器的端口
+}

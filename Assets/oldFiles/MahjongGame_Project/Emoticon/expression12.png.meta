@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 8dbebceffeeeec6478b8e4b0ad6e98f0
+timeCreated: 1503481480
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: expression12_0
+    21300002: expression12_1
+    21300004: expression12_2
+    21300006: expression12_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: expression12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 66.5}
+        - {x: -60.5, y: 66.5}
+        - {x: -81.5, y: 61.5}
+        - {x: -81.5, y: -9.5}
+        - {x: -46.5, y: -50.5}
+        - {x: 64.5, y: -50.5}
+        - {x: 82.5, y: -28.5}
+        - {x: 82.5, y: 22.5}
+        - {x: 51.5, y: 48.5}
+    - name: expression12_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 67.5}
+        - {x: -40.5, y: 67.5}
+        - {x: -53.5, y: 62.5}
+        - {x: -72.5, y: 29.5}
+        - {x: -72.5, y: 20.5}
+        - {x: -56.5, y: 14.5}
+        - {x: -16.5, y: -50.5}
+        - {x: 82.5, y: -50.5}
+        - {x: 82.5, y: 13.5}
+        - {x: 74.5, y: 43.5}
+    - name: expression12_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 64.5}
+        - {x: -62.5, y: 64.5}
+        - {x: -62.5, y: 20.5}
+        - {x: -40.5, y: 8.5}
+        - {x: -6.5, y: -50.5}
+        - {x: 63.5, y: -50.5}
+        - {x: 82.5, y: -29.5}
+        - {x: 82.5, y: 22.5}
+        - {x: 71.5, y: 41.5}
+    - name: expression12_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 62.5}
+        - {x: -72.5, y: 62.5}
+        - {x: -73.5, y: 61.5}
+        - {x: -73.5, y: 14.5}
+        - {x: -10.5, y: -36.5}
+        - {x: 9.5, y: -50.5}
+        - {x: 55.5, y: -50.5}
+        - {x: 73.5, y: -46.5}
+        - {x: 82.5, y: -29.5}
+        - {x: 82.5, y: 28.5}
+        - {x: 77.5, y: 47.5}
+    outline: []
+  spritePackingTag: Game
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

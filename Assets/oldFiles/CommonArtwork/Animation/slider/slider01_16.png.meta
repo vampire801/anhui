@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: eb2bc0c73c505bc4c80cf9361dba81e7
+timeCreated: 1498207905
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slider01_16_0
+    21300002: slider01_16_1
+    21300004: slider01_16_2
+    21300006: slider01_16_3
+    21300008: slider01_16_4
+    21300010: slider01_16_5
+    21300012: slider01_16_6
+    21300014: slider01_16_7
+    21300016: slider01_16_8
+    21300018: slider01_16_9
+    21300020: slider01_16_10
+    21300022: slider01_16_11
+    21300024: slider01_16_12
+    21300026: slider01_16_13
+    21300028: slider01_16_14
+    21300030: slider01_16_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: slider01_16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: -19.5}
+        - {x: -12, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 15.5}
+        - {x: 20, y: 25.5}
+    - name: slider01_16_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25.5}
+        - {x: -25, y: 17.5}
+        - {x: -25, y: -14.5}
+        - {x: -11, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 13.5}
+        - {x: 15, y: 25.5}
+    - name: slider01_16_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25.5}
+        - {x: -18, y: 20.5}
+        - {x: -25, y: 14.5}
+        - {x: -25, y: -6.5}
+        - {x: -10, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 7.5}
+        - {x: 10, y: 25.5}
+    - name: slider01_16_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -15.5}
+        - {x: -15, y: -25.5}
+        - {x: 21, y: -25.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: 20.5}
+        - {x: 20, y: 25.5}
+    - name: slider01_16_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25.5}
+        - {x: -25, y: 18.5}
+        - {x: -25, y: -16.5}
+        - {x: -15, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 15.5}
+        - {x: 17, y: 25.5}
+    - name: slider01_16_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -23, y: 16.5}
+        - {x: -25, y: 8.5}
+        - {x: -25, y: -17.5}
+        - {x: -13, y: -25.5}
+        - {x: 10, y: -25.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 14.5}
+        - {x: 20, y: 25.5}
+    - name: slider01_16_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -25, y: 16.5}
+        - {x: -25, y: -9.5}
+        - {x: -11, y: -25.5}
+        - {x: 23, y: -25.5}
+        - {x: 25, y: -16.5}
+        - {x: 25, y: 20.5}
+        - {x: 15, y: 25.5}
+    - name: slider01_16_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25.5}
+        - {x: -18, y: 21.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: -3.5}
+        - {x: -9, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 7.5}
+        - {x: 12, y: 25.5}
+    - name: slider01_16_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: -11.5}
+        - {x: -24, y: -15.5}
+        - {x: -17, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 25, y: -22.5}
+        - {x: 25, y: 12.5}
+        - {x: 20, y: 22.5}
+        - {x: 12, y: 25.5}
+    - name: slider01_16_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: -15.5}
+        - {x: -20, y: -25.5}
+        - {x: 11, y: -25.5}
+        - {x: 25, y: -14.5}
+        - {x: 25, y: 13.5}
+        - {x: 11, y: 25.5}
+    - name: slider01_16_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25.5}
+        - {x: -25, y: 7.5}
+        - {x: -25, y: -12.5}
+        - {x: -19, y: -23.5}
+        - {x: -11, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 25, y: -5.5}
+        - {x: 25, y: 14.5}
+        - {x: 12, y: 25.5}
+    - name: slider01_16_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25.5}
+        - {x: -25, y: 21.5}
+        - {x: -25, y: -17.5}
+        - {x: -13, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 25, y: -13.5}
+        - {x: 25, y: 23.5}
+        - {x: 22, y: 25.5}
+    - name: slider01_16_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: -5.5}
+        - {x: -15, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 25, y: -21.5}
+        - {x: 25, y: 10.5}
+        - {x: 13, y: 25.5}
+    - name: slider01_16_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 25.5}
+        - {x: -16, y: 25.5}
+        - {x: -25, y: 22.5}
+        - {x: -25, y: -20.5}
+        - {x: -17, y: -25.5}
+        - {x: 24, y: -25.5}
+        - {x: 25, y: -23.5}
+        - {x: 25, y: 3.5}
+        - {x: 22, y: 12.5}
+    - name: slider01_16_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 25.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -15.5}
+        - {x: -22, y: -25.5}
+        - {x: 23, y: -25.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 25.5}
+    - name: slider01_16_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 25.5}
+        - {x: -9, y: 25.5}
+        - {x: -25, y: 5.5}
+        - {x: -25, y: -14.5}
+        - {x: -12, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 13.5}
+        - {x: 21, y: 23.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

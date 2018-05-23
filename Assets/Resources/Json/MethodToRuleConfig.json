@@ -1,0 +1,277 @@
+﻿{
+  "methodToCardType": [
+    {
+      "METHOD": 20016,
+      "RuleId": 3014,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20016,
+      "RuleId": 3015,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20016,
+      "RuleId": 3016,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20016,
+      "RuleId": 3018,
+      "Choice": 1,
+      "Hierarchy": 2,
+      "Options": 1
+    },
+    {
+      "METHOD": 20016,
+      "RuleId": 3017,
+      "Choice": 1,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20016,
+      "RuleId": 3001,
+      "Choice": 2,
+      "Hierarchy": 3,
+      "Options": 1
+    },
+    {
+      "METHOD": 20016,
+      "RuleId": 2003,
+      "Choice": 2,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3001,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3024,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3025,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3029,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3027,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3028,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 1
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3030,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20015,
+      "RuleId": 3031,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3001,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 1002,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 2009,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3032,
+      "Choice": 2,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3033,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3034,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3004,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 1
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3035,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3005,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3006,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3007,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3036,
+      "Choice": 1,
+      "Hierarchy": 4,
+      "Options": 1
+    },
+    {
+      "METHOD": 20001,
+      "RuleId": 3037,
+      "Choice": 1,
+      "Hierarchy": 4,
+      "Options": 0
+    },
+    {
+      "METHOD": 20017,
+      "RuleId": 2008,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20017,
+      "RuleId": 2007,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20017,
+      "RuleId": 3038,
+      "Choice": 1,
+      "Hierarchy": 2,
+      "Options": 1
+    },
+    {
+      "METHOD": 20017,
+      "RuleId": 3039,
+      "Choice": 1,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3040,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3041,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 1
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3042,
+      "Choice": 1,
+      "Hierarchy": 1,
+      "Options": 0
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3001,
+      "Choice": 2,
+      "Hierarchy": 2,
+      "Options": 0
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3043,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3044,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 0
+    },
+    {
+      "METHOD": 20018,
+      "RuleId": 3045,
+      "Choice": 1,
+      "Hierarchy": 3,
+      "Options": 1
+    }
+  ]
+}

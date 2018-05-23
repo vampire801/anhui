@@ -1,0 +1,158 @@
+﻿{
+  "cityConfig": [
+    {
+      "CITY_ID": 550,
+      "CITY_NAME": "滁州市",
+      "VALID": 2,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 551,
+      "CITY_NAME": "合肥市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 552,
+      "CITY_NAME": "蚌埠市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 553,
+      "CITY_NAME": "芜湖市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 554,
+      "CITY_NAME": "淮南市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 555,
+      "CITY_NAME": "马鞍山市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 556,
+      "CITY_NAME": "安庆市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 557,
+      "CITY_NAME": "宿州市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 558,
+      "CITY_NAME": "阜阳市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 559,
+      "CITY_NAME": "黄山市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 560,
+      "CITY_NAME": "亳州市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 561,
+      "CITY_NAME": "淮北市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 562,
+      "CITY_NAME": "铜陵市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 563,
+      "CITY_NAME": "宣城市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 564,
+      "CITY_NAME": "六安市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 565,
+      "CITY_NAME": "巢湖市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 566,
+      "CITY_NAME": "池州市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 567,
+      "CITY_NAME": "桐城市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 568,
+      "CITY_NAME": "天长市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 569,
+      "CITY_NAME": "明光市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 570,
+      "CITY_NAME": "界首市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    },
+    {
+      "CITY_ID": 571,
+      "CITY_NAME": "宁国市",
+      "VALID": 0,
+      "SHARING": "【双喜麻将】最地道的安徽玩法与现实中的好友一起组局线上游戏吧！",
+      "SHARING_INVITATION": null
+    }
+  ]
+}

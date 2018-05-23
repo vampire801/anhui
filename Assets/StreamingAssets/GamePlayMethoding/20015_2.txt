@@ -1,0 +1,10 @@
+﻿<color=#7e4b0e><size=30>【平胡】</size></color><color=#7e4b0e><size=30></size></color>
+是最平常的一种胡牌牌型，由顺子或刻子加一对将组成，如123万+234条+777饼+678万+9条对。
+<color=#7e4b0e><size=30>【缺门】</size></color><color=#7e4b0e><size=30></size></color>
+缺门指成牌时万、筒、条三门缺一门。
+<color=#7e4b0e><size=30>【混一色】</size></color><color=#7e4b0e><size=30></size></color>
+混一色指成牌时万、筒、条只有一门，同时含字牌。
+<color=#7e4b0e><size=30>【清一色】</size></color><color=#7e4b0e><size=30></size></color>
+清一色，所有牌 包括已经吃碰杠的 全部是 一种类型的 比如全部是万子 或者全是条子 或者全部是筒子。
+<color=#7e4b0e><size=30>【字一色】</size></color><color=#7e4b0e><size=30></size></color>
+字一色成牌时所有的牌只有字牌，不含万、筒、条。

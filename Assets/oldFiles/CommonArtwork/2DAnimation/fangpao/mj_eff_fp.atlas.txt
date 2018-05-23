@@ -1,0 +1,11 @@
+mj_eff_fp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_mj_fp
+  rotate: false
+  xy: 2, 2
+  size: 186, 89
+  orig: 186, 89
+  offset: 0, 0
+  index: -1

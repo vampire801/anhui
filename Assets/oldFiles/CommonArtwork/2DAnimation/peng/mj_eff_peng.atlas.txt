@@ -1,0 +1,82 @@
+
+mj_eff_peng.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj_peng_flower1
+  rotate: false
+  xy: 577, 161
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+mj_peng_flower2
+  rotate: false
+  xy: 516, 16
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+mj_peng_flower3
+  rotate: false
+  xy: 577, 123
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+mj_peng_leaf1
+  rotate: true
+  xy: 577, 57
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+mj_peng_leaf2
+  rotate: false
+  xy: 555, 37
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+mj_peng_light3
+  rotate: false
+  xy: 443, 57
+  size: 132, 137
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+mj_peng_lightspot
+  rotate: false
+  xy: 577, 69
+  size: 22, 21
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+mj_peng_text_light
+  rotate: false
+  xy: 2, 2
+  size: 439, 342
+  orig: 439, 342
+  offset: 0, 0
+  index: -1
+mj_peng_trunk_1
+  rotate: false
+  xy: 443, 6
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+mj_peng_trunk_2
+  rotate: false
+  xy: 577, 92
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mj_peng_z
+  rotate: false
+  xy: 443, 196
+  size: 164, 148
+  orig: 164, 148
+  offset: 0, 0
+  index: -1

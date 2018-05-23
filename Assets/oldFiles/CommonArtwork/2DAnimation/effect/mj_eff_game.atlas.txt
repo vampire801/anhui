@@ -1,0 +1,40 @@
+
+mj_eff_game.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_yellow
+  rotate: false
+  xy: 660, 28
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+mj_eff_glow_1
+  rotate: true
+  xy: 518, 116
+  size: 142, 140
+  orig: 149, 149
+  offset: 3, 4
+  index: -1
+mj_eff_glow_2
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mj_eff_glow_3
+  rotate: true
+  xy: 660, 136
+  size: 122, 118
+  orig: 128, 128
+  offset: 3, 5
+  index: -1
+mj_eff_glow_4
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+﻿{
+  "districtConfig": [
+    {
+      "COUNTY_ID": 341126,
+      "CITY_ID": 550,
+      "COUNTY_NAME": "滁州市",
+      "VALID": 2,
+      "METHOD": "20001",
+      "QQ": 11111
+    },
+    {
+      "COUNTY_ID": 341125,
+      "CITY_ID": 550,
+      "COUNTY_NAME": "定远县",
+      "VALID": 2,
+      "METHOD": "20015_20016",
+      "QQ": 11111
+    }
+  ]
+}

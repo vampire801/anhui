@@ -1,0 +1,259 @@
+﻿enum Fan
+{
+	F_COMMON_HAND = 0,					// 平胡
+	F_THIRTEEN_INDEPEND,					// 十三不靠
+	F_THIRTEEN_ORPHANS,					// 十三幺
+	F_SEVEN_PAIRS,							// 七对
+	F_LUXURY_SEVEN_PAIRS,					// 豪华七对
+	F_ALL_CONCEALED_HAND,					// 门清
+	F_SISTER_PAVE,							//	姐妹
+	F_DOUBLE_SISTER_PAVE,					//双姐妹铺
+	F_LACK_SUIT,							// 缺一门
+	F_CONNECTED_SEQUENCE,				//	一条龙
+	F_COUPLES_HAND,						// 对对胡
+	F_SAME_COLOUR,							//	清一色
+	F_SAME_COUPLES,						//清对对
+	F_MIXED_ONE_SUIT,						//	混一色
+	F_HONOR_TILES,						//字一色
+	F_GANG_KAI,								// 杠上开花
+	F_FOUR_LAIZI,							// 四癞子胡牌
+	F_COMMON_HAND_FOUR_LAIZI,			// 天胡/地胡四癞子
+	F_SOFT_LACK,						//软缺
+	F_FORCED_LACK,						//硬缺
+	F_FOUR_IN_HAND,						//四遇子
+	F_VALUABLE_WIND,					//值钱风
+	F_ROBBING_KONG_WIN,					//抢杠胡
+	F_PEN_IN_WIND,						//圈风
+	F_ONSELF_WIND_JONG,					//风圈将
+	F_DI_READ_HAND,						//地听
+	F_THREE_WIND,						//三季风
+	F_BROKEN_ORPHAS,					//断幺
+	F_ONLY_ORPHS,							//独幺
+	F_SEA_BOTTOM_DRAW,					//海底捞月
+	F_WHOLE_BEG,						//全求人
+	F_ALL_ONE_NINE,						//幺幺胡(全一九)
+	F_BIG_THREE,						//大三元
+	F_WHITE_BORADS_AS_JONG,				//配子吃
+	F_ONLY_TILE_WIN,					//独一
+	F_TIAN_HU,							//天胡
+	F_DI_HU,							//地胡
+	F_FLOWER,								//花牌
+	F_CONTINUOUS_SIX,						//六连
+	F_DOUBLE_CONTINUOUS_SIX,				//双六连
+	F_MEET,									//见面
+	F_ONE_NINE_JONG,						//幺九将
+	F_KE,									//刻牌
+	F_ONESELF_DOOR_WIND,					//本门风
+	F_DERLEAST_WIND,						//本圈风
+	F_NO_ONE_NINE,							//断一九
+	F_FOUR_KONG,							//四杠/十八罗汉
+	F_FOUR_WIND_KONG,						//大四喜
+	F_SINGLE_HOIST,						//单调（最后拿到的牌与将牌相同）
+	F_FAN_POINT,							// 翻码
+	F_KONG_POINT,							//坎分数
+	F_WINTILEPOINT,						//胡牌点数
+	F_DO_NOT_LEAVE,						//不下架(不下地)
+	F_READ_HAND,							//天听
+	F_REGULATING_BARS,					//将明杠 (本门风杠 )
+	F_THE_DARK_BARS,						//将暗杠 (本门风杠 )
+	F_DONG_FENG_DONG,						//东风东-南风南-西风西-北风北(东风圈时手上有三个东风 就叫为东风东)
+	F_FIRE_FORK_ONE,						//火叉1
+	F_FIRE_FORK_TWO,						//火叉2
+	F_EDGE_TENSION,						//边张
+	F_CAR_DAN,								//卡当
+	F_ABSOLUTE_SHEET,						//绝张
+	F_DARKER,								//暗绝
+	F_DARK_CARD,							//暗卡绝
+	F_HU_RIGHT,							//胡对对
+	F_NO_FLOWERS,							//无花
+	F_START_TOLISTEN,						//起手报听
+	F_FOUR_HI,								//四喜
+	F_TOTAL_NUM = 80							// 计番种类总数
+};
+
+/**
+ * 麻将玩法配置结构体
+ */
+typedef struct PlayingMethodConf
+{
+// 付费 [billing]
+	BYTE byBillingMode; // 付费模式：1按圈付费，2按局付费，3按分付费
+	BYTE byBillingNumber; // 付费量：多少圈、局、分付费
+	BYTE byBillingPrice; // 付费价格：消耗多少张金币
+	BYTE byBillingBespeak; //预约订金
+	BYTE byBillingAwardRate; //预约守约奖励
+	BYTE byBillingPayMode; // 房费支付模式:1AA支付 2房主支付,
+// 胡牌结算 [win_point]
+	BYTE byWinPointMode; // 计分模式：
+// 1 底分*庄闲倍数 + 奖码*翻码（红中赖子）
+//  2 底分*自摸倍数*庄闲倍数 + 底分*牌型分数（其他玩法）
+//  3连庄次数*2+牌型分数
+	BYTE byWinPointBasePointMode; // 计番模板:0原版,1新版(区别:底分,自摸倍数,杠开倍数,杠分)
+	BYTE byWinPointBasePoint; // 底分
+	BYTE byWinPointFanNum; // 翻码数量
+	BYTE byWinPointFanPoint; // 翻码分数
+	BYTE byWinPointDealerMultiple; // 庄家倍数
+	BYTE byWinPointPlayerMultiple; //闲家倍数
+	BYTE byWinPointSelfDrawnMultiple; // 自摸倍数
+	BYTE byWinPointMultiShoot; // 一炮多响：0一炮单响，1一炮多响（自摸设置必须是可接炮才有效）
+	BYTE byWinPointMultiPay; // 接炮收三家/坐庄：0只收放炮的，1收三家（自摸设置必须是可接炮才有效）
+	BYTE byWinPointMultiPayExtraMode; // 放炮额外支付模式：0不额外支付，1加n倍底分（接炮收三家设置必须是1收三家才有效）
+	BYTE byWinPointMultiPayExtra; // 放炮额外支付底分倍数（放炮额外支付模式必须是1加n倍底分才有效）
+	BYTE byWinPointRedDargonPoint; // 红中算码：0（不算），1（算）
+	BYTE byWinPointRemainDelear; //连庄时额外获得/付出分数
+//创牌模式 [create_mode]
+	BYTE byCreateModeHaveWind; // 是否有风牌：0没有，1有
+	BYTE byCreateModeHaveDragon; // 是否有箭牌：0没有，1有，2只有红中
+	BYTE byCreateModeHaveFlower; // 是否有花牌：0没有，1有
+// 出牌规则 [discard]
+	BYTE byDiscardChow; // 是否允许吃：0不允许，1允许
+	BYTE byDiscardLaizi; // 是否有癞子：0没有癞子，1原配，2升配，3降配,4搬配子 5 带配子 6 白板配子
+	BYTE byDiscardLaiziTile; // 是否固定癞子牌:0随机,1红中,2白板(有癞子才算)
+	BYTE byWaitAutoDisCardTim; //等待进入托管状态时间,sec
+	BYTE byDiscardConcealedKongVisidle; // 暗杠是否可见
+	/**
+	 * 留墩	[reserve]
+	 * 留墩模式：留墩数量：0不留墩，1留牌数量=12+杠次数*2，2留牌数量=14+杠次数*2，3留牌数量=12+明杠次数*2+暗杠次数*4,4留牌数量:(0杠12,1杠14,2杠16,3杠18,4杠12,5杠14...)，5留牌数量6,6 掷骰子得到留墩数(1~6)墩 1~12张
+	 **/
+	BYTE byReserveMode;
+	BYTE byReserveNum; // 留墩数量（掷骰子获得（1～ 6））（模式6有效）
+	BYTE byUseMoveTlie; //是否有搬子牌，0没有，1有
+// 荒庄 [draw]
+	BYTE byDrawFourKong; // 四杠荒庄：0不可以，1可以
+	BYTE byDrawFourNoKong; // 荒庄荒杠:0 荒庄不荒杠 ,1 荒庄荒杠
+// 换庄 [dealer]
+	BYTE byDealerDraw; // 荒庄后换庄模式：1轮庄，2连庄，3有杠轮庄无杠连庄
+	BYTE byDealerDealer; // 庄家胡牌后换庄模式：1轮庄，2连庄
+	BYTE byDealerPlayer; // 闲家胡牌后换庄模式：1轮庄，2抢庄(不能是按圈付费)
+// 胡牌限制 [win_limit]
+	BYTE byWinLimitLack; // 缺一门：0无要求，1必须缺一门
+	BYTE byWinLimitDependEight; // 靠八张：0无要求，1必须靠八张
+	BYTE byWinLimitSelfDrawn; // 自摸：0可接炮，1必须自摸
+	BYTE byWinLimitRobbingKong; // 抢杠胡：0不可抢杠胡，1可抢杠胡,2有癞子不可抢杠胡
+	BYTE byWinLimitBeginFan; // 起胡番数
+	BYTE byWinLimitMaxFan; //最大番数
+	BYTE byWinLimitReadHand; //是否需要报听0不许要，1需要
+	BYTE byWinAndGongPriority; //是否优先下家，0不优先，1优先
+	BYTE byWinLimitEscapeWinPong; //是否漏碰漏胡,0，不漏碰不漏胡，1漏胡漏碰,2漏胡不漏碰，3漏碰不漏胡
+	BYTE byWinWhiteBoardChange; //白板配子，0不是，1是
+	BYTE byWinFirstTileLimit; //是否计算天胡地胡,0不是，1计算天胡，2计算地胡，3计算天胡与地胡
+	BYTE byWinOverWater; //过水不胡: 0不开启 1开启
+//[ TODO 新添加 2018年5月14日15时45分07秒  luohuachang
+	BYTE byWinHonorFlower; //字牌是否为花: 0 不是 ,1 是 ]
+// 特殊牌型 [win_special]
+	BYTE byWinSpecialFourLaiziWin; // 四癞子直接胡牌:0不胡,1胡
+	BYTE byWinSpecialThirteenIndepend; // 十三不靠：0不可胡，1可胡
+	BYTE byWinSpecialThirteenOrphans; // 十三幺：0不可胡，1可胡
+	/**
+	 * 十三幺吃抢：
+	 *  0 不可吃抢，
+	 *  1 可吃抢（当十三幺为1可胡时才有效，只能吃抢各一次）
+	 *  2 可吃抢(当十三幺为1可胡时才有效，能吃n次，只能抢一次)
+	 *  3 可吃不可抢(当十三幺为1可胡时才有效，能吃n次)
+	 *  4 可枪不可吃(只能抢2次)
+	 **/
+	BYTE byWinSpecialThirteenOrphansCr;
+	BYTE byWinSpecialThirteenOrphansGrab; // 十三幺-抢后可吃：0不可吃，1可吃
+	BYTE byWinSpecialThirteenOrphansNum; //十三幺-吃抢牌数相关倍数：0不开启，1开启
+	BYTE byWinSpecialSevenPairs; // 七对：0不可胡，1可胡
+	BYTE byWinSpecialSevenPairsFlag; // 七对标志：0普通，1不能有同色三顺对
+	BYTE byWinSpecialLuxurySevenPairs; // 豪华七对：0不可胡，1可胡
+	BYTE byWinKong; // 坎,0不计分，1计分
+	BYTE byWinLack; // 缺门,0不计分，1计分
+	BYTE byWinOneNineJong; // 幺九将,0不计分，1计分
+	BYTE byWinOrphas; // 断独幺,0不计分，1计分
+	BYTE byWinContinuousSix; // 六连,0不计分，1计分
+	BYTE byWinDoubleContinuousSix; //双六连,0不计分，1计分
+	BYTE byWinMeet; //见面,0不计分，1计分
+	BYTE byWinPoint; //点数,0不计分，1计分
+	BYTE byWinKe; //刻，0不计分，1计分
+	BYTE byWinFlower; //计算花牌数0,不计算，1计算
+	BYTE byWinKongFlagNum; //是否计算下地坎数 0不计算，1计算
+// 计番 [fan]
+	BYTE byFanCommonHand; // 平胡
+	BYTE byFanThirteenIndepend; // 十三不靠
+	BYTE byFanThirteenOrphans; // 十三幺
+	BYTE byFanSevenPairs; // 七对
+	BYTE byFanLuxurySevenPairs; // 豪华七对
+	BYTE byFanAllConcealedHand; //门清
+	BYTE byFanSisterPave; //姐妹
+	BYTE byFanLackSuit; //缺一门
+	BYTE byFanConnectedSequence; //一条龙
+	BYTE byFanCouplesHand; //对对胡
+	BYTE byFanSameColor; //清一色
+	BYTE byFanSameCouples; //清对对
+	BYTE byFanMixedOneSuit; //混一色
+	BYTE byFanGangKai; // 杠上开花番数
+	BYTE byFanFourLaizi; // 四癞子胡牌番数
+	BYTE byFanCommonHandFourLaizi; // 天胡/地胡四癞子倍数
+	BYTE byFanTianHand; // 天胡
+	BYTE byFanDiHu; //地胡
+	BYTE byFanFourinHand; //四遇子
+	BYTE byFanSoftLack; //软缺
+	BYTE byFanForcedLack; //硬缺
+	BYTE byFanBrokenOrphas; //断幺
+	BYTE byOnlyOrphas; //独幺
+	BYTE byFanSistersPave; //双姊妹铺
+	BYTE byFanValueableWind; //值钱风
+	BYTE byFanRobbingKongWin; //抢杠胡
+	BYTE byFanSeaBottomDrawWin; //海底捞月
+	BYTE byFanPeninWind; //圈风
+	BYTE byFanWindJong; //风圈将
+	BYTE byFanWholeBeg; //全求人 (全部碰杠，手里剩一张 )(大吊车)
+	BYTE byFanAllOneNine; //幺幺胡(全一九)
+	BYTE byFanBigThree; //大三元
+	BYTE byFanThreeWind; //三季风
+	BYTE byFanHonorTiles; //字一色
+	BYTE byFanWhiteAsJong; //配子吃
+	BYTE byIfUseOnlyTileWin; //是否开启独一,0不开启,1开启
+	BYTE byFanOnlyOneTileWin; //独一
+	BYTE byFlower; //花牌
+	BYTE byContinuousSix; //六连
+	BYTE byDoubleContinuousSix; //双六连
+	BYTE byMeet; //见面
+	BYTE byOneNineJong; //幺九将
+	BYTE byFanKe; //刻
+	BYTE byFanOneselfDoorWind; //本门风
+	BYTE byFanDealerSeatWind; //本圈风
+	BYTE byFanNoOneNine; //断一九
+	BYTE byFanEighteenFourKong; //十八罗汉/四杠
+	BYTE byFanFourWindKong; //大四喜
+	BYTE byFanWinKong; //坎
+	BYTE byFanSingleHoist; //单吊（最后拿到的牌与将牌相同）
+
+//[ TODO 新添加 2018年4月18日 14时53分15秒  luohuachang
+	BYTE byFanReadHand; //天听 (庄家起牌听)
+	BYTE byFanDiReadHand; //地听
+	BYTE byFanRegulatingBars; //将明杠 (本门风杠 )
+	BYTE byFanTheDarkBars; //将暗杠 (本门风杠 )
+	BYTE byFanDoNotLeave; //不下架(不下地)
+	BYTE byFanDongFengDong; //东风东-南风南-西风西-北风北(东风圈时手上有三个东风 就叫为东风东)
+//[ TODO 2018年5月14日16时10分13秒 luohuachang
+	BYTE byFanFireForkOne;	//火叉1
+	BYTE byFanFireForkTwo;	//火叉2
+	BYTE byFanEdgeTension;	//边张
+	BYTE byFanCarDan;			//卡当
+	BYTE byFanAbsoluteSheet;	//绝张
+	BYTE byFanDarker;			//暗绝
+	BYTE byFanDarkCard;		//暗卡绝
+	BYTE byFanHuRight;		//胡对对
+	BYTE byFanNoFlowers;		//无花
+	BYTE byFanStartToListen;	//起手报听
+	BYTE byFanFourHi;	//四喜 ]
+// 额外计番 [fan_extra]
+	BYTE byFanExtraMode;	//结算模式 :1即时结算，2结算胡牌人额外番数，3结算所有人额外番数
+	BYTE byFanExtraExposedMode; // 明杠支付模式：0不支付，1被杠者支付，2三家都支付 3点炮者支付，自摸三家支付
+	BYTE byFanExtraTripletToKongMode; // 补杠支付模式：0不支付，1被碰者支付，2三家都支付
+	BYTE byFanExtraExrobbingKongMode; // 抢杠支付模式：0不支付，1被抢杠者支付,2一家包三家
+	BYTE byFanExtraExposedBase; // 明杠基础番数
+	BYTE byFanExtraExposedExtra; // 明杠额外番数(被杠/碰支付)
+	BYTE byFanExtraExposedHonor; //明杠字牌番数
+	BYTE byFanExtraConcealedMode; // 暗杠支付模式：0不支付,1三家都支付 2点炮者支付，自摸三家支付
+	BYTE byFanExtraConcealedKong; // 暗杠
+	BYTE byFanExtraConcealedKongHonor; //暗杠字牌番数
+	BYTE byProcessTripletToKong; //可杠选择碰时再补杠时不计分是否开启，0不开启，1开启
+	BYTE byFanExtraTripletToKong; //  补杠
+	BYTE byFanExtraExrobbingKongBase; // 抢杠胡
+	BYTE byFanExtraThreeBanzi; //三搬子在手
+	BYTE byFanExtraFourPeizi; //四配子在手
+} PlayingMethodConfDef;

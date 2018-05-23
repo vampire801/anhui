@@ -1,0 +1,16 @@
+﻿{
+  "global_config": {
+    "db_encrypt_key": "",
+    "preload_attach": true,
+    "sdk_log_level": 6
+  },
+  "private_server_setting": {
+    "lbs": "http://223.252.220.223/lbs/conf",
+    "nos_lbs": "http://wanproxy.127.net/lbs?version=1.0",
+    "default_link": [ "223.252.220.222:2000" ],
+    "default_nos_upload": [ "http://223.252.196.40" ],
+    "default_nos_download": [ "http://nos.netease.com" ],
+    "default_nos_access": null,
+    "rsa_public_key_module": ""
+  }
+}

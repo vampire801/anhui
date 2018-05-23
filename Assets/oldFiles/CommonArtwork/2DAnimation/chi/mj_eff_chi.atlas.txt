@@ -1,0 +1,82 @@
+
+mj_eff_chi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj_chi_flower1
+  rotate: true
+  xy: 512, 239
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+mj_chi_flower2
+  rotate: false
+  xy: 512, 151
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+mj_chi_flower3
+  rotate: false
+  xy: 512, 193
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+mj_chi_leaf
+  rotate: true
+  xy: 512, 135
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+mj_chi_light
+  rotate: false
+  xy: 346, 7
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+mj_chi_light2
+  rotate: false
+  xy: 346, 122
+  size: 164, 107
+  orig: 165, 107
+  offset: 0, 0
+  index: -1
+mj_chi_lightspot
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mj_chi_neck1
+  rotate: false
+  xy: 480, 5
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+mj_chi_neck2
+  rotate: true
+  xy: 512, 317
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+mj_chi_text
+  rotate: false
+  xy: 346, 231
+  size: 164, 158
+  orig: 164, 158
+  offset: 0, 0
+  index: -1
+mj_chi_textlight
+  rotate: true
+  xy: 2, 15
+  size: 374, 342
+  orig: 374, 342
+  offset: 0, 0
+  index: -1

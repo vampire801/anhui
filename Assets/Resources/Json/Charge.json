@@ -1,0 +1,102 @@
+﻿{
+  "charge": [
+  {
+    "ChargeId": 1001,
+    "Name": "60个金币",
+    "Coin": 60,
+    "Price": 600,
+    "Present": 0,
+    "Boss": 0
+  },
+  {
+    "ChargeId": 1002,
+    "Name": "300个金币",
+    "Coin": 300,
+    "Price": 3000,
+    "Present": 0,
+    "Boss": 0
+  },
+  {
+    "ChargeId": 1003,
+    "Name": "980个金币",
+    "Coin": 980,
+    "Price": 9800,
+    "Present": 0,
+    "Boss": 0
+  },
+  {
+    "ChargeId": 1004,
+    "Name": "1680个金币",
+    "Coin": 1680,
+    "Price": 16800,
+    "Present": 0,
+    "Boss": 0
+  },
+  {
+    "ChargeId": 1005,
+    "Name": "3280个金币",
+    "Coin": 3280,
+    "Price": 32800,
+    "Present": 0,
+    "Boss": 0
+  },
+  {
+    "ChargeId": 1006,
+    "Name": "6480个金币",
+    "Coin": 6480,
+    "Price": 64800,
+    "Present": 0,
+    "Boss": 0
+  },
+  {
+    "ChargeId": 2001,
+    "Name": "500个金币",
+    "Coin": 500,
+    "Price": 5000,
+    "Present": 100,
+    "Boss": 1
+  },
+  {
+    "ChargeId": 2002,
+    "Name": "1000个金币",
+    "Coin": 1000,
+    "Price": 10000,
+    "Present": 200,
+    "Boss": 1
+  },
+  {
+    "ChargeId": 2003,
+    "Name": "2000个金币",
+    "Coin": 2000,
+    "Price": 20000,
+    "Present": 400,
+    "Boss": 1
+  },
+  {
+    "ChargeId": 2004,
+    "Name": "5000个金币",
+    "Coin": 5000,
+    "Price": 50000,
+    "Present": 1000,
+    "Boss": 1
+  },
+  {
+    "ChargeId": 2005,
+    "Name": "10000个金币",
+    "Coin": 10000,
+    "Price": 100000,
+    "Present": 2000,
+    "Boss": 1
+  },
+  {
+    "ChargeId": 2006,
+    "Name": "20000个金币",
+    "Coin": 20000,
+    "Price": 200000,
+    "Present": 4000,
+    "Boss": 1
+  }
+]
+
+
+}

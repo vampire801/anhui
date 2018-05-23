@@ -1,0 +1,410 @@
+﻿{
+  "cardType": [
+    {
+      "ID": 1001,
+      "card_type": "十三幺",
+      "notes": "可胡十三幺牌型。",
+      "relevance": 0,
+      "notNotes": "不可胡十三幺牌型。"
+    },
+    {
+      "ID": 1002,
+      "card_type": "七对",
+      "notes": "可胡七对、豪华七对等牌型。",
+      "relevance": 0,
+      "notNotes": "不可胡七对、豪华七对等牌型。"
+    },
+    {
+      "ID": 1003,
+      "card_type": "豪华七对",
+      "notes": "可成豪华七对。",
+      "relevance": 0,
+      "notNotes": "不可胡豪华七对牌型。"
+    },
+    {
+      "ID": 1004,
+      "card_type": "十三不靠",
+      "notes": "可胡十三不靠。",
+      "relevance": 0,
+      "notNotes": "不可胡十三不靠牌型。"
+    },
+    {
+      "ID": 1005,
+      "card_type": "杠收三家",
+      "notes": "明杠收三家分，每家付1倍分。",
+      "relevance": 0,
+      "notNotes": "明杠收单家，单家付3倍分。"
+    },
+    {
+      "ID": 1006,
+      "card_type": "四杠荒庄",
+      "notes": "四杠即为荒庄。",
+      "relevance": 0,
+      "notNotes": "四杠不荒庄。"
+    },
+    {
+      "ID": 1007,
+      "card_type": "自摸翻倍",
+      "notes": "自摸翻倍。",
+      "relevance": 0,
+      "notNotes": "自摸不翻倍。"
+    },
+    {
+      "ID": 2003,
+      "card_type": "一炮多响",
+      "notes": "可多人同时接炮成牌。",
+      "relevance": 0,
+      "notNotes": "多人胡牌时按顺序截胡。"
+    },
+    {
+      "ID": 2004,
+      "card_type": "无要求",
+      "notes": "关闭前抬后和。",
+      "relevance": 0,
+      "notNotes": "关闭前抬后和。"
+    },
+    {
+      "ID": 2005,
+      "card_type": "可前抬",
+      "notes": "第一圈与庄家出相同的牌，庄家给闲家1倍分。",
+      "relevance": 0,
+      "notNotes": "第一圈与庄家出相同的牌，庄家不在给闲家1倍分。"
+    },
+    {
+      "ID": 2006,
+      "card_type": "可后和",
+      "notes": "牌局荒庄，庄家给闲家1倍分。",
+      "relevance": 0,
+      "notNotes": "牌局荒庄，庄家不会付闲家分数。"
+    },
+    {
+      "ID": 2007,
+      "card_type": "接炮三家",
+      "notes": "接炮三家都需付分。",
+      "relevance": 0,
+      "notNotes": "接炮收三家分。"
+    },
+    {
+      "ID": 2008,
+      "card_type": "接炮一家",
+      "notes": "接炮时，点炮玩家单家付分。",
+      "relevance": 0,
+      "notNotes": "接炮时，点炮玩家单家付分。"
+    },
+    {
+      "ID": 2009,
+      "card_type": "红中算码",
+      "notes": "红中算码",
+      "relevance": 0,
+      "notNotes": "红中不算码。"
+    },
+    {
+      "ID": 3001,
+      "card_type": "可接炮",
+      "notes": "可接炮成牌，也可自摸成牌。",
+      "relevance": 0,
+      "notNotes": "仅可自摸成牌，不可接炮成牌。"
+    },
+    {
+      "ID": 3002,
+      "card_type": "奖码（5分）",
+      "notes": "可选择奖码（5分）。",
+      "relevance": 0,
+      "notNotes": "可选择奖码（5分）。"
+    },
+    {
+      "ID": 3003,
+      "card_type": "奖码（10分）",
+      "notes": "可选择奖码（10分）。",
+      "relevance": 0,
+      "notNotes": "可选择奖码（10分）。"
+    },
+    {
+      "ID": 3004,
+      "card_type": "无码",
+      "notes": "可不买码。",
+      "relevance": 0,
+      "notNotes": "可不买码。"
+    },
+    {
+      "ID": 3035,
+      "card_type": "扎1码",
+      "notes": "勾选后牌局结束时只翻一张牌，翻到几分加几分。",
+      "relevance": 0,
+      "notNotes": "勾选后牌局结束时只翻一张牌，翻到几分加几分。"
+    },
+    {
+      "ID": 3005,
+      "card_type": "扎2码",
+      "notes": "可买两码。",
+      "relevance": 0,
+      "notNotes": "可买两码。"
+    },
+    {
+      "ID": 3006,
+      "card_type": "扎4码",
+      "notes": "可买四码。",
+      "relevance": 0,
+      "notNotes": "可买四码。"
+    },
+    {
+      "ID": 3007,
+      "card_type": "扎6码",
+      "notes": "可买六码。",
+      "relevance": 0,
+      "notNotes": "可买六码。"
+    },
+    {
+      "ID": 3008,
+      "card_type": "升配",
+      "notes": "勾选后升配。",
+      "relevance": 0,
+      "notNotes": "勾选后升配。"
+    },
+    {
+      "ID": 3009,
+      "card_type": "原配",
+      "notes": "勾选后原配。",
+      "relevance": 0,
+      "notNotes": "勾选后原配。"
+    },
+    {
+      "ID": 3010,
+      "card_type": "降配",
+      "notes": "勾选后降配。",
+      "relevance": 0,
+      "notNotes": "勾选后降配。"
+    },
+    {
+      "ID": 3011,
+      "card_type": "胡牌收三家",
+      "notes": "胡牌可收三家。",
+      "relevance": 0,
+      "notNotes": "接炮胡牌收单家，自摸胡牌收三家。"
+    },
+    {
+      "ID": 3012,
+      "card_type": "三铺下地包三家",
+      "notes": "三铺下地包三家。",
+      "relevance": 0,
+      "notNotes": "三铺下地不在包三家。"
+    },
+    {
+      "ID": 3013,
+      "card_type": "大牌放铳包三家",
+      "notes": "大牌放炮包三家。",
+      "relevance": 0,
+      "notNotes": "大牌放炮不在包三家。"
+    },
+    {
+      "ID": 3014,
+      "card_type": "1嘴",
+      "notes": "底分1嘴。",
+      "relevance": 0,
+      "notNotes": "底分1嘴。"
+    },
+    {
+      "ID": 3015,
+      "card_type": "5嘴",
+      "notes": "底分5嘴。",
+      "relevance": 0,
+      "notNotes": "底分5嘴。"
+    },
+    {
+      "ID": 3016,
+      "card_type": "10嘴",
+      "notes": "底分10嘴。",
+      "relevance": 0,
+      "notNotes": "底分10嘴。"
+    },
+    {
+      "ID": 3017,
+      "card_type": "平胡",
+      "notes": "任何牌型分值均为平胡。",
+      "relevance": 0,
+      "notNotes": "任何牌型分值均为平胡。"
+    },
+    {
+      "ID": 3018,
+      "card_type": "大胡",
+      "notes": "混一色、清一色等特殊牌计算相应的牌型分。",
+      "relevance": 0,
+      "notNotes": "混一色、清一色等特殊牌计算相应的牌型分。"
+    },
+    {
+      "ID": 3019,
+      "card_type": "3分",
+      "notes": "底分3分。",
+      "relevance": 0,
+      "notNotes": "底分3分。"
+    },
+    {
+      "ID": 3020,
+      "card_type": "5分",
+      "notes": "底分5分。",
+      "relevance": 0,
+      "notNotes": "底分5分。"
+    },
+    {
+      "ID": 3021,
+      "card_type": "10分",
+      "notes": "底分10分。",
+      "relevance": 0,
+      "notNotes": "底分10分。"
+    },
+    {
+      "ID": 3022,
+      "card_type": "3番起胡",
+      "notes": "满足3番才可胡。",
+      "relevance": 0,
+      "notNotes": "无需满足三番即可胡牌。"
+    },
+    {
+      "ID": 3024,
+      "card_type": "坎",
+      "notes": "手上三张为坎1倍底分，碰下地不算。",
+      "relevance": 0,
+      "notNotes": "坎分不予计算。"
+    },
+    {
+      "ID": 3025,
+      "card_type": "缺门",
+      "notes": "缺门时，分值给予计算。",
+      "relevance": 0,
+      "notNotes": "缺门分数不予计算。"
+    },
+    {
+      "ID": 3026,
+      "card_type": "摸",
+      "notes": "自摸时额外加1倍底分。",
+      "relevance": 0,
+      "notNotes": "自摸无额外加分。"
+    },
+    {
+      "ID": 3027,
+      "card_type": "点数",
+      "notes": "胡牌是几加几嘴，字牌10嘴。仅自摸时计算！",
+      "relevance": 0,
+      "notNotes": "胡牌时不在加点数分值。"
+    },
+    {
+      "ID": 3028,
+      "card_type": "见面",
+      "notes": "听口为1、4、7条，胡牌时桌面有多少张打出的1、4、7条就是几嘴。",
+      "relevance": 0,
+      "notNotes": "见面分不予计算。"
+    },
+    {
+      "ID": 3029,
+      "card_type": "幺九将",
+      "notes": "手中含1/9或者风牌组成的将牌为幺九。 1嘴。",
+      "relevance": 0,
+      "notNotes": "幺九将的分数不予计算。"
+    },
+    {
+      "ID": 3030,
+      "card_type": "六连",
+      "notes": "1个六连1嘴，两个六连2嘴，通天5嘴。",
+      "relevance": 0,
+      "notNotes": "六连、通天分数不予计算。"
+    },
+    {
+      "ID": 3031,
+      "card_type": "断独幺",
+      "notes": "只有一张1/9为独幺，1嘴。若手牌没有1/9则为断幺，计2嘴。",
+      "relevance": 0,
+      "notNotes": "独幺、断独幺的分数不予计算。"
+    },
+    {
+      "ID": 3032,
+      "card_type": "抢杠全包",
+      "notes": "被抢杠玩家包所有分数，胡分、杠分、扎码分。",
+      "relevance": 0,
+      "notNotes": "被抢杠玩家不在包所有分数，胡分、杠分、扎码分。"
+    },
+    {
+      "ID": 3033,
+      "card_type": "抢杠无红中",
+      "notes": "指抢杠胡时，胡牌玩家手中无红中，否则不允许抢杠胡。",
+      "relevance": 0,
+      "notNotes": "指抢杠胡时，胡牌玩家手中无红中，允许抢杠胡。"
+    },
+    {
+      "ID": 3034,
+      "card_type": "荒庄荒杠",
+      "notes": "荒庄时杠分无效！",
+      "relevance": 0,
+      "notNotes": "荒庄时杠分生效！"
+    },
+    {
+      "ID": 3036,
+      "card_type": "原版计分",
+      "notes": "参考原版计分表！",
+      "relevance": 0,
+      "notNotes": "参考原版计分表！"
+    },
+    {
+      "ID": 3037,
+      "card_type": "新版小分",
+      "notes": "参考新版计分表！",
+      "relevance": 0,
+      "notNotes": "参考新版计分表！"
+    },
+    {
+      "ID": 3038,
+      "card_type": "一番起胡",
+      "notes": "满足一番时即可胡牌！",
+      "relevance": 0,
+      "notNotes": "满足一番时即可胡牌！"
+    },
+    {
+      "ID": 3039,
+      "card_type": "两番起胡",
+      "notes": "满足两番时即可胡牌！",
+      "relevance": 0,
+      "notNotes": "满足两番时即可胡牌！"
+    },
+    {
+      "ID": 3040,
+      "card_type": "带配子",
+      "notes": "开局前系统随机定一张牌为配子，配子也就是万能牌。",
+      "relevance": 0,
+      "notNotes": "开局前系统随机定一张牌为配子，配子也就是万能牌。"
+    },
+    {
+      "ID": 3041,
+      "card_type": "不带配子",
+      "notes": "开局前系统不会随机定一张牌为配子，游戏中将无万能牌。",
+      "relevance": 0,
+      "notNotes": "开局前系统不会随机定一张牌为配子，游戏中将无万能牌。"
+    },
+    {
+      "ID": 3042,
+      "card_type": "白皮配子",
+      "notes": "系统将定白板为万能牌。",
+      "relevance": 0,
+      "notNotes": "系统将定白板为万能牌。"
+    },
+    {
+      "ID": 3043,
+      "card_type": "字牌30番",
+      "notes": "胡全字牌时，番数为30番。",
+      "relevance": 0,
+      "notNotes": "胡全字牌时，番数为30番。"
+    },
+    {
+      "ID": 3044,
+      "card_type": "字牌60番",
+      "notes": "胡全字牌时，番数为60番。",
+      "relevance": 0,
+      "notNotes": "胡全字牌时，番数为60番。"
+    },
+    {
+      "ID": 3045,
+      "card_type": "字牌100番",
+      "notes": "胡全字牌时，番数为100番。",
+      "relevance": 0,
+      "notNotes": "胡全字牌时，番数为100番。"
+    }
+  ]
+}

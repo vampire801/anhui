@@ -1,0 +1,76 @@
+
+huangzhuang.png
+size: 462,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0003
+  rotate: true
+  xy: 178, 2
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+1__0004
+  rotate: true
+  xy: 390, 29
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+1__2_0005
+  rotate: false
+  xy: 229, 14
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+2_0006
+  rotate: false
+  xy: 299, 22
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+3_0007
+  rotate: false
+  xy: 260, 23
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+6_0008
+  rotate: false
+  xy: 354, 39
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+huang
+  rotate: true
+  xy: 2, 11
+  size: 144, 174
+  orig: 144, 174
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 204, 2
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+zhuang (1)
+  rotate: true
+  xy: 178, 42
+  size: 113, 174
+  orig: 113, 174
+  offset: 0, 0
+  index: -1
+zhuang (2)
+  rotate: false
+  xy: 354, 53
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1

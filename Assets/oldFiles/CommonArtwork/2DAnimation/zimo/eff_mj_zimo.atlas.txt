@@ -1,0 +1,19 @@
+
+eff_mj_zimo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj_zimo_textlight
+  rotate: false
+  xy: 2, 2
+  size: 531, 358
+  orig: 531, 358
+  offset: 0, 0
+  index: -1
+mj_zimo_z
+  rotate: true
+  xy: 535, 52
+  size: 308, 197
+  orig: 308, 197
+  offset: 0, 0
+  index: -1

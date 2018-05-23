@@ -1,0 +1,167 @@
+
+shmj_eff_xstyk.png
+size: 620,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shddz_dt_gd_fakaicontiyan
+  rotate: true
+  xy: 579, 79
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+shddz_texiao_card1
+  rotate: true
+  xy: 456, 285
+  size: 109, 150
+  orig: 109, 150
+  offset: 0, 0
+  index: -1
+shddz_texiao_card2
+  rotate: false
+  xy: 323, 107
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+shddz_texiao_card2shadow
+  rotate: false
+  xy: 448, 74
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+shddz_texiao_card3
+  rotate: false
+  xy: 323, 248
+  size: 131, 146
+  orig: 131, 146
+  offset: 0, 0
+  index: -1
+shddz_texiao_card3shadow
+  rotate: false
+  xy: 448, 156
+  size: 133, 87
+  orig: 133, 87
+  offset: 0, 0
+  index: -1
+shddz_texiao_card3shadow1
+  rotate: false
+  xy: 240, 3
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1
+shddz_texiao_flower1
+  rotate: false
+  xy: 350, 53
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+shddz_texiao_flower1_l
+  rotate: false
+  xy: 350, 2
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+shddz_texiao_flower2
+  rotate: false
+  xy: 446, 10
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+shddz_texiao_flower2 _l
+  rotate: false
+  xy: 477, 10
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+shddz_texiao_leaf1
+  rotate: false
+  xy: 543, 15
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+shddz_texiao_ribbonshadow
+  rotate: false
+  xy: 456, 245
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+shddz_texiao_shadow1
+  rotate: true
+  xy: 404, 3
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+shddz_texiao_shadow1_l
+  rotate: false
+  xy: 425, 3
+  size: 19, 53
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+shddz_texiao_shadow_2
+  rotate: true
+  xy: 401, 58
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+shddz_texiao_shadow_2_l
+  rotate: false
+  xy: 561, 28
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+shddz_texiao_vines
+  rotate: false
+  xy: 583, 131
+  size: 30, 112
+  orig: 30, 112
+  offset: 0, 0
+  index: -1
+shddz_texiao_vines_l
+  rotate: false
+  xy: 447, 42
+  size: 112, 30
+  orig: 112, 30
+  offset: 0, 0
+  index: -1
+slice_shmj_eff_xstyk_00
+  rotate: false
+  xy: 2, 90
+  size: 319, 304
+  orig: 319, 304
+  offset: 0, 0
+  index: -1
+slice_shmj_eff_xstyk_03
+  rotate: false
+  xy: 2, 10
+  size: 236, 78
+  orig: 236, 78
+  offset: 0, 0
+  index: -1
+slice_shmj_eff_xstyk_23
+  rotate: true
+  xy: 508, 14
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+slice_shmj_eff_xstyk_24
+  rotate: true
+  xy: 561, 4
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,131 @@
+
+mj_eff_ting.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj_ting_leaf1
+  rotate: false
+  xy: 647, 55
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+mj_ting_leaf10
+  rotate: false
+  xy: 2, 2
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+mj_ting_leaf2
+  rotate: true
+  xy: 441, 17
+  size: 9, 62
+  orig: 9, 62
+  offset: 0, 0
+  index: -1
+mj_ting_leaf4
+  rotate: false
+  xy: 630, 239
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+mj_ting_leaf5
+  rotate: false
+  xy: 619, 238
+  size: 9, 39
+  orig: 9, 39
+  offset: 0, 0
+  index: -1
+mj_ting_leaf6
+  rotate: true
+  xy: 668, 5
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: -1
+mj_ting_leaf8
+  rotate: false
+  xy: 647, 16
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+mj_ting_leaf9
+  rotate: true
+  xy: 43, 7
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+mj_ting_light2
+  rotate: true
+  xy: 636, 355
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+mj_ting_light3
+  rotate: false
+  xy: 441, 28
+  size: 127, 65
+  orig: 127, 65
+  offset: 0, 0
+  index: -1
+mj_ting_light4
+  rotate: true
+  xy: 570, 16
+  size: 74, 75
+  orig: 75, 75
+  offset: 1, 0
+  index: -1
+mj_ting_light5
+  rotate: false
+  xy: 441, 95
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+mj_ting_pole1
+  rotate: false
+  xy: 619, 279
+  size: 15, 159
+  orig: 15, 159
+  offset: 0, 0
+  index: -1
+mj_ting_pole2
+  rotate: false
+  xy: 636, 275
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+mj_ting_pole3
+  rotate: false
+  xy: 579, 136
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+mj_ting_pole4
+  rotate: true
+  xy: 579, 92
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+mj_ting_text
+  rotate: false
+  xy: 441, 233
+  size: 176, 205
+  orig: 176, 205
+  offset: 0, 0
+  index: -1
+mj_ting_text_1
+  rotate: true
+  xy: 2, 17
+  size: 421, 437
+  orig: 421, 437
+  offset: 0, 0
+  index: -1

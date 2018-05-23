@@ -1,0 +1,19 @@
+﻿{
+  "playNameConfig": [
+    {
+      "COUNTY_ID": 341125,
+      "METHOD": "20016",
+      "METHOD_NAME": "定远推倒胡"
+    },
+    {
+      "COUNTY_ID": 341125,
+      "METHOD": "20015",
+      "METHOD_NAME": "定远共嘴麻将"
+    },
+    {
+      "COUNTY_ID": 341126,
+      "METHOD": "20001",
+      "METHOD_NAME": "红中麻将"
+    }
+  ]
+}

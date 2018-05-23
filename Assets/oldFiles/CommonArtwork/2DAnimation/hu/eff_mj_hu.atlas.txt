@@ -1,0 +1,250 @@
+
+eff_mj_hu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj_hu_leaf_1
+  rotate: false
+  xy: 430, 8
+  size: 132, 88
+  orig: 133, 90
+  offset: 1, 1
+  index: -1
+mj_hu_light1
+  rotate: true
+  xy: 854, 79
+  size: 49, 45
+  orig: 50, 46
+  offset: 1, 1
+  index: -1
+mj_hu_light2
+  rotate: false
+  xy: 596, 125
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+mj_hu_light3
+  rotate: false
+  xy: 778, 65
+  size: 74, 75
+  orig: 75, 75
+  offset: 1, 0
+  index: -1
+mj_hu_light4
+  rotate: false
+  xy: 430, 98
+  size: 164, 167
+  orig: 164, 167
+  offset: 0, 0
+  index: -1
+mj_hu_light5
+  rotate: false
+  xy: 596, 26
+  size: 180, 97
+  orig: 201, 101
+  offset: 10, 0
+  index: -1
+mj_hu_lightspotpurple
+  rotate: false
+  xy: 878, 16
+  size: 27, 27
+  orig: 28, 28
+  offset: 1, 0
+  index: -1
+mj_hu_lightspotyellow
+  rotate: false
+  xy: 767, 131
+  size: 9, 9
+  orig: 10, 10
+  offset: 1, 0
+  index: -1
+mj_hu_neck1
+  rotate: false
+  xy: 854, 130
+  size: 32, 135
+  orig: 32, 135
+  offset: 0, 0
+  index: -1
+mj_hu_neck2
+  rotate: true
+  xy: 261, 30
+  size: 29, 142
+  orig: 29, 142
+  offset: 0, 0
+  index: -1
+mj_hu_petal1
+  rotate: true
+  xy: 564, 54
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+mj_hu_petal10
+  rotate: true
+  xy: 739, 10
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+mj_hu_petal11
+  rotate: false
+  xy: 709, 5
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+mj_hu_petal12
+  rotate: false
+  xy: 405, 30
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+mj_hu_petal13
+  rotate: true
+  xy: 564, 9
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+mj_hu_petal14
+  rotate: true
+  xy: 261, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+mj_hu_petal15
+  rotate: true
+  xy: 878, 45
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+mj_hu_petal16
+  rotate: true
+  xy: 888, 130
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+mj_hu_petal17
+  rotate: false
+  xy: 290, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+mj_hu_petal18
+  rotate: true
+  xy: 736, 125
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+mj_hu_petal19
+  rotate: false
+  xy: 888, 220
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+mj_hu_petal2
+  rotate: false
+  xy: 888, 141
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+mj_hu_petal20
+  rotate: true
+  xy: 316, 3
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+mj_hu_petal21
+  rotate: false
+  xy: 888, 176
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+mj_hu_petal3
+  rotate: true
+  xy: 383, 8
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+mj_hu_petal4
+  rotate: true
+  xy: 617, 6
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+mj_hu_petal5
+  rotate: true
+  xy: 648, 4
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+mj_hu_petal6
+  rotate: true
+  xy: 583, 6
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+mj_hu_petal7
+  rotate: true
+  xy: 679, 4
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+mj_hu_petal8
+  rotate: true
+  xy: 583, 32
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+mj_hu_petal9
+  rotate: false
+  xy: 362, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+mj_hu_star
+  rotate: false
+  xy: 736, 142
+  size: 116, 123
+  orig: 157, 149
+  offset: 31, 15
+  index: -1
+mj_hu_text
+  rotate: false
+  xy: 261, 61
+  size: 167, 204
+  orig: 167, 204
+  offset: 0, 0
+  index: -1
+mj_hu_textlight
+  rotate: false
+  xy: 2, 11
+  size: 257, 254
+  orig: 259, 255
+  offset: 1, 0
+  index: -1
+mj_hu_wave3
+  rotate: false
+  xy: 778, 25
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1

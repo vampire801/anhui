@@ -1,0 +1,96 @@
+
+eff_mj_gang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj_gang_flower1
+  rotate: false
+  xy: 455, 28
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+mj_gang_flower2
+  rotate: false
+  xy: 591, 133
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+mj_gang_leaf5
+  rotate: true
+  xy: 125, 11
+  size: 14, 75
+  orig: 14, 75
+  offset: 0, 0
+  index: -1
+mj_gang_leaf6
+  rotate: true
+  xy: 565, 8
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+mj_gang_leaf7
+  rotate: false
+  xy: 373, 6
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+mj_gang_leaf8
+  rotate: false
+  xy: 494, 6
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+mj_gang_light1
+  rotate: false
+  xy: 494, 72
+  size: 95, 99
+  orig: 97, 99
+  offset: 1, 0
+  index: -1
+mj_gang_light2
+  rotate: false
+  xy: 527, 176
+  size: 82, 53
+  orig: 83, 53
+  offset: 1, 0
+  index: -1
+mj_gang_light3
+  rotate: false
+  xy: 373, 58
+  size: 119, 113
+  orig: 135, 135
+  offset: 9, 11
+  index: -1
+mj_gang_light4
+  rotate: true
+  xy: 527, 231
+  size: 106, 84
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+mj_gang_neck2_1
+  rotate: true
+  xy: 2, 2
+  size: 23, 121
+  orig: 23, 121
+  offset: 0, 0
+  index: -1
+mj_gang_text
+  rotate: true
+  xy: 373, 173
+  size: 164, 152
+  orig: 164, 152
+  offset: 0, 0
+  index: -1
+mj_gang_textlight
+  rotate: false
+  xy: 2, 27
+  size: 369, 310
+  orig: 369, 310
+  offset: 0, 0
+  index: -1
